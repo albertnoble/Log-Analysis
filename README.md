@@ -1,8 +1,7 @@
 <h1>Logs Analysis Project<h1>
-
+Retrieve data from a large database and display the top articles and authors.
 
 <h2>Prerequisites</h2>
-<hr>
     <ul>
         <li>Python</li>
         <li>loganalysis.py</li>
@@ -11,12 +10,11 @@
     </ul>
 	
 <h2>Installing</h2>
-<hr>
 	Download and install VirtualBox and Vagrant
-	Inside the vagrant subdirectory run "vagrant up" and then "vagrant ssh"
-	Add data from newsdata.sql into your local database using "psql -d newsdata.sql"
+	Inside the vagrant subdirectory run <code>vagrant up</code> and then <code>vagrant ssh</code>
+	Add data from newsdata.sql into your local database using <code>psql -d newsdata.sql</code>
 	
 	
 <h2>Run</h2>
-	Run the "python loganalysis.py" command to run and display the log results
+	Run the <code>python loganalysis.py</code> command to run and display the log results
 	
