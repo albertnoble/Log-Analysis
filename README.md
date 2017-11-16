@@ -17,4 +17,7 @@ Retrieve data from a large database and display the top articles and authors.
 	
 <h2>Run</h2>
 	Run the <code>python loganalysis.py</code> command to run and display the log results
+    
+<h2>Sources Used</h2>
+    Full Stack Web Developer http://www.udacity.com    
 	
