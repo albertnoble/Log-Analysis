@@ -1,4 +1,4 @@
-<h1>Logs Analysis Project<h1>
+<h1>Logs Analysis Project</h1>
 Retrieve data from a large database and display the top articles and authors.
 
 <h2>Prerequisites</h2>
